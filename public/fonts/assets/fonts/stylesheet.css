@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Chronicle Display Black';
+    src: url('ChronicleDisplay-Black.eot');
+    src: url('ChronicleDisplay-Black.eot?#iefix') format('embedded-opentype'),
+        url('ChronicleDisplay-Black.woff2') format('woff2'),
+        url('ChronicleDisplay-Black.woff') format('woff'),
+        url('ChronicleDisplay-Black.ttf') format('truetype'),
+        url('ChronicleDisplay-Black.svg#ChronicleDisplay-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Chronicle Display';
+    src: url('ChronicleDisplay-Roman.eot');
+    src: url('ChronicleDisplay-Roman.eot?#iefix') format('embedded-opentype'),
+        url('ChronicleDisplay-Roman.woff2') format('woff2'),
+        url('ChronicleDisplay-Roman.woff') format('woff'),
+        url('ChronicleDisplay-Roman.ttf') format('truetype'),
+        url('ChronicleDisplay-Roman.svg#ChronicleDisplay-Roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Chronicle Display';
+    src: url('ChronicleDisplay-LightItalic.eot');
+    src: url('ChronicleDisplay-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('ChronicleDisplay-LightItalic.woff2') format('woff2'),
+        url('ChronicleDisplay-LightItalic.woff') format('woff'),
+        url('ChronicleDisplay-LightItalic.ttf') format('truetype'),
+        url('ChronicleDisplay-LightItalic.svg#ChronicleDisplay-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Chronicle Display Semi';
+    src: url('ChronicleDisplay-Semi.eot');
+    src: url('ChronicleDisplay-Semi.eot?#iefix') format('embedded-opentype'),
+        url('ChronicleDisplay-Semi.woff2') format('woff2'),
+        url('ChronicleDisplay-Semi.woff') format('woff'),
+        url('ChronicleDisplay-Semi.ttf') format('truetype'),
+        url('ChronicleDisplay-Semi.svg#ChronicleDisplay-Semi') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
