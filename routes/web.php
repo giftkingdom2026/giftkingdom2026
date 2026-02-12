@@ -274,3 +274,4 @@ Route::get('/account/become-a-vendor', 'CustomersController@becomeSeller')->midd
 Route::get('/cache-clear', function () {
 	Artisan::call('cache:clear');
 });
+// sonar test
